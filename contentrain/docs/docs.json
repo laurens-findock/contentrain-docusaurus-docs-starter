@@ -6,5 +6,12 @@
     "sidebar-position": 1,
     "createdAt": 1656065162435,
     "updatedAt": 1656079560369
+  },
+  {
+    "ID": "6dd4285f-f659-49b7-b309-1d52fcbae444",
+    "slug": "hello",
+    "content": "**How about this new article?**\n\n",
+    "sidebar-position": 2,
+    "createdAt": 1661867112812
   }
 ]
